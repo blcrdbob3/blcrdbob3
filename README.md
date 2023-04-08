@@ -2,6 +2,5 @@
 
 <p align="center">
   <li> i make stuff </li> 
-  <li> programmer for FRC team 178 </li> 
 </p>
 
